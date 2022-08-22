@@ -41,6 +41,4 @@ public class HelloWorldController {
                                                            @RequestBody HelloWorld helloWorld) {
         return helloWorldService.updateHelloWorldById(id, helloWorld);
     }
-
-
 }
