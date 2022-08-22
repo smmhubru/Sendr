@@ -23,3 +23,8 @@
 hs_err_pid*
 
 .idea/
+target
+mvnw
+mvnw.cmd
+sendr.iml
+
