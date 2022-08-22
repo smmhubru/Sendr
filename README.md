@@ -1,1 +1,1 @@
-# Sendr
+# Sendr App
